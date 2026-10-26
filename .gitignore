@@ -1,0 +1,13 @@
+# Environment variables and API credentials
+.env
+.env.*
+
+# Keep an example configuration file if added later
+!.env.example
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
